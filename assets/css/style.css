@@ -65,7 +65,7 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 997;
   transition: all 0.5s;
   padding: 16px 0;
-  background: #213b52;
+  background: #0A6EFF;
 }
 
 #header .logo h1 {
@@ -130,7 +130,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu .get-started a {
-  background: #213b52;
+  background: #0A6EFF;
   color: #fff;
   border-radius: 50px;
   margin: 2px 0 0 15px;
@@ -348,8 +348,8 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   padding: 0 0 0 0;
-  background: #213b52;
-  background: linear-gradient(180deg, #213b52 0%, #213c54 35%, #204564 100%);
+  background: #0A6EFF;
+  background: linear-gradient(180deg, #213b52 0%, #213c54 %, #204564 %);
 }
 
 #hero h1 {
@@ -357,7 +357,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 48px;
   font-weight: 700;
   line-height: 56px;
-  color: #d2e0ed;
+  color: #FFFFFF;
   font-family: "Poppins", sans-serif;
 }
 
